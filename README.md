@@ -32,5 +32,5 @@ npm start
 ```
 
 #### ✨사용 URL 
-http://localhost:3000/naver?keyword=키워드
+http://localhost:3000/naver?keyword=키워드   
 http://localhost:3000/vibe
