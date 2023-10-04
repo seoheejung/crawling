@@ -20,7 +20,7 @@
   - puppeteer.js # puppeteer를 사용한 라우터 JS
 ```
 
-#### 💡 데이터베이스 구조
+#### 💡 mongodb 구조
 ```
 DB NAME : crawling
 collection : vibe
