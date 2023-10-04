@@ -1,0 +1,4 @@
+PORT=3000
+VIBEURL=https://vibe.naver.com/chart/total
+NAVERURL=https://www.naver.com
+MONGODBURL=
